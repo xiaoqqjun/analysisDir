@@ -10,6 +10,11 @@ install.packages("analysisDir", repos = NULL, type = "source")
 
 # 或使用 devtools
 devtools::install_local("path/to/analysisDir")
+
+# github
+
+devtools::install_github("xiaoqqjun/analysisDir")
+
 ```
 
 ## 使用
